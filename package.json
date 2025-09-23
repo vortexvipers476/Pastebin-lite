@@ -1,4 +1,13 @@
 {
+  "name": "pastebin-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
     "class-variance-authority": "^0.7.0",
